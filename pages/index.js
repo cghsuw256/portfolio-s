@@ -14,6 +14,7 @@ import Cursor from "../components/Cursor";
 // Local Data
 import data from "../data/portfolio.json";
 import ServiceCard2 from "../components/ServiceCard/index2";
+import ServiceCard3 from "../components/ServiceCard/index3";
 
 export default function Home() {
   // Ref
@@ -126,6 +127,19 @@ export default function Home() {
                 name={act.title}
                 period={act.period}
                 endPeriod={act.endPeriod}
+              />
+            ))}
+          </div>
+        </div>
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" id="skills">
+          <h1 className="tablet:m-10 text-2xl text-bold" id="skillsTitle">Skills</h1>
+          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6" id="skillsContent">
+            {data.skills.map((skill, index) => (
+              <ServiceCard3
+                key={index}
+                title={skill.title}
+                clicked={skill.clicked}
+                period={skill.period}
               />
             ))}
           </div>

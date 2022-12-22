@@ -46,27 +46,45 @@
     {
       "id":"1",
       "title":"사이버가디언즈",
-      "period":"2022.05.12",
-      "endPeriod":"2022.06.20"
+      "period":"2021.05.12",
+      "endPeriod":"2021.06.20"
     },
     {
       "id":"2",
-      "title":"2022년 경북소프트웨어고등학교 SW기술연수",
-      "period":"2022.12.20",
-      "endPeriod":"2022.12.29"
+      "title":"수성알파시티 입주기업 견학",
+      "period":"2022.05.30",
+      "endPeriod":"2022.05.30"
     },
     {
       "id":"3",
-      "title":"수성알파시티 입주기업 견학",
-      "period":"2021.05.30",
-      "endPeriod":"2021.05.30"
+      "title":"2022 알고리즘 기초반",
+      "period":"2022.08.05",
+      "endPeriod":"2021.12.31"
     },
-    
     {
       "id":"4",
-      "title":"2021 사이버가디언즈",
-      "period":"2022.05.03",
-      "endPeriod":"2021.06.15"
+      "title":"2022년 경북소프트웨어고등학교 SW기술연수",
+      "period":"2022.12.20",
+      "endPeriod":"2022.12.29"
+    }
+  ],
+  "skills":[
+    {
+      "id":"1",
+      "title":"Typescript",
+      "clicked":"https://www.typescriptlang.org/",
+      "period":"2022.07.15"
+    },
+    {
+      "id":"2",
+      "title":"NestJs",
+      "clicked":"https://nestjs.com/",
+      "period":"2022.07.15"
+    },{
+      "id":"3",
+      "title":"NodeJs",
+      "clicked":"https://nodejs.org/en/",
+      "period":"2022.06.04"
     }
   ],
   "aboutpara": "다양한 경험을 통해 다양한 관점을 가지게 된 효율적인 개발자 최근호의 포트폴리오 사이트입니다.",
