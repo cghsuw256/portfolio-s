@@ -109,7 +109,7 @@ const Resume = () => {
                     </div>
                   )}
 
-                  {resume.others && (
+                  {/* {resume.others && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg">Others</h2>
                       <ul className="list-disc">
@@ -120,7 +120,7 @@ const Resume = () => {
                         ))}
                       </ul>
                     </div>
-                  )}
+                  )} */}
                 </div>
               </div>
             </div>
