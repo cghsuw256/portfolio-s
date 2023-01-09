@@ -81,7 +81,7 @@
     },
     {
       "id":"6",
-      "title":"경북 SWgo 인텁십 프로그램 (직장내 예절)",
+      "title":"경북 SWgo 인텁십 프로그램 (사내 예절)",
       "period":"2023.01.02",
       "endPeriod":"2023.01.03"
     },
@@ -109,6 +109,11 @@
       "title":"NodeJs",
       "clicked":"https://nodejs.org/en/",
       "period":"2022.06.04"
+    },{
+      "id":"4",
+      "title":"SpringBoot",
+      "clicked":"https://spring.io/",
+      "period":"2022.12.20"
     }
   ],
   "aboutpara": "여러 경험을 통해 남들과는 다른 다양한 관점을 가지게 된 효율적인 개발자 최근호의 포트폴리오 사이트입니다.",
