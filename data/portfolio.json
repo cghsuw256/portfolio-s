@@ -69,9 +69,27 @@
     },
     {
       "id":"4",
-      "title":"2022년 경북소프트웨어고등학교 SW기술연수",
+      "title":"경북소프트웨어고등학교 SW기술연수(SpringBoot)",
       "period":"2022.12.20",
       "endPeriod":"2022.12.29"
+    },
+    {
+      "id":"5",
+      "title":"캡스톤 프로젝트 우수상 (상벌점 시스템)",
+      "period":"2022.07.10",
+      "endPeriod":"2023.01.03"
+    },
+    {
+      "id":"6",
+      "title":"경북 SWgo 인텁십 프로그램 (직장내 예절)",
+      "period":"2023.01.02",
+      "endPeriod":"2023.01.03"
+    },
+    {
+      "id":"7",
+      "title":"경북 SWgo 인텁십 프로그램 (현장 실습)",
+      "period":"2023.01.09",
+      "endPeriod":"2023.01.13"
     }
   ],
   "skills":[
@@ -93,7 +111,7 @@
       "period":"2022.06.04"
     }
   ],
-  "aboutpara": "다양한 경험을 통해 다양한 관점을 가지게 된 효율적인 개발자 최근호의 포트폴리오 사이트입니다.",
+  "aboutpara": "여러 경험을 통해 남들과는 다른 다양한 관점을 가지게 된 효율적인 개발자 최근호의 포트폴리오 사이트입니다.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer, and maker.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
