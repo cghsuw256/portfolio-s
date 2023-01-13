@@ -15,6 +15,7 @@ import Cursor from "../components/Cursor";
 import data from "../data/portfolio.json";
 import ServiceCard2 from "../components/ServiceCard/index2";
 import ServiceCard3 from "../components/ServiceCard/index3";
+import ServiceCard4 from "../components/ServiceCard/index4";
 
 export default function Home() {
   // Ref
@@ -140,6 +141,18 @@ export default function Home() {
                 title={skill.title}
                 clicked={skill.clicked}
                 period={skill.period}
+              />
+            ))}
+          </div>
+        </div>
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" id="Award">
+          <h1 className="tablet:m-10 text-2xl text-bold" id="AwardTitle">My Award</h1>
+          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6" id="AwardContent">
+            {data.Awards.map((award, index) => (
+              <ServiceCard4
+                key={index}
+                name={award.title}
+                period={award.period}
               />
             ))}
           </div>
