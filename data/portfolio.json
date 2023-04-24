@@ -32,6 +32,13 @@
       "description": "백엔드 RestAPI 개발, DB설계",
       "imageSrc": "https://avatars.githubusercontent.com/u/113450683?s=200&v=4",
       "url": "https://github.com/Team-Firewall"
+    },
+    {
+      "id":"3",
+      "title":"출입증 관리 시스템",
+      "description":"UI/UX 설계, 백엔드 RestAPI 개발, DB 설계",
+      "imageSrc":"",
+      "url":"https://github.com/school-pass"
     }
   ],
   "Qualification": [
@@ -65,7 +72,7 @@
       "id":"3",
       "title":"2022 알고리즘 기초반",
       "period":"2022.08.05",
-      "endPeriod":"2021.12.31"
+      "endPeriod":"2022.12.31"
     },
     {
       "id":"4",
